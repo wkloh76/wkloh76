@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wkloh76
-- 👀 I’m interested in programming, such as nodejs, python, php, vb.net, c#.net, MCU C programming.
+- 👀 I’m interested nodejs, python, php, vb.net, c#.net, MCU C programming, dockert, sql and nosql database.
 - 🌱 I’m currently writing a code structure, code modular in programming language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
