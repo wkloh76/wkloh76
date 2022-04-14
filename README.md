@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wkloh76
 - 👀 I’m interested nodejs, python, php, vb.net, c#.net, MCU C programming, dockert, sql and nosql database.
-- 🌱 I’m currently writing a code structure, code modular in programming language.
+- 🌱 I’m currently writing a code structure, code modular in programming language, design a similar solidworks PDM system with nodejs and electronJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
